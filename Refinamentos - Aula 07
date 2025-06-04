@@ -1,0 +1,72 @@
+  SUBTRAÇÃO
+Q1 - Escreva um algoritmo usando linguagem natural e calcule a subtração de dois números inteiros.
+
+   1. Leia / Pegue os valores desses dois números;
+   2. O resultado será a subtração desses dois números;
+
+Q2 - Escreva um algoritmo usando linguagem natural que calcule a subtração de dois números inteiros e mostre o resultado.
+   
+   1. Leia / Pegue os valores desses dois números;
+   2. O resultado será a subtração desses dois números;
+   3. Mostre o resultado desta subtração.
+
+Q3 - Escreva um algoritmo usando linguagem natural que leia dois números inteiros "a" e "b", calcule a subtração destes números e mostre o resultado.
+  
+   1. Leia os valores de "a" e "b";
+   2. O resultado será a subtração de "a" menos "b";
+   3. Mostre o resultado desta subtração.
+
+    Refinamento:
+    1. Leia [a];           
+    1. Leia [b];
+    2. [resultado] = [a] - [b];
+    3. Mostre [resultado].          
+
+
+MULTIPLICAÇÃO
+Q1 - Escreva um algoritmo usando linguagem natural e calcule o produto de dois números inteiros.
+
+   1. Leia / Pegue os valores desses dois números;
+   2. O resultado será o produto desses dois números;
+
+Q2 - Escreva um algoritmo usando linguagem natural que calcule o produto de dois números inteiros e mostre o resultado.
+   
+   1. Leia / Pegue os valores desses dois números;
+   2. O resultado será o produto desses dois números;
+   3. Mostre o resultado desta multiplicação.
+
+Q3 - Escreva um algoritmo usando linguagem natural que leia dois números inteiros "a" e "b", calcule o produto destes números e mostre o resultado.
+  
+   1. Leia os valores de "a" e "b";
+   2. O resultado será o produto de "a" vezes "b";
+   3. Mostre o resultado desta multiplicação.
+
+ Refinamento:
+    1. Leia [a];           
+    1. Leia [b];
+    2. [resultado] = [a] . [b];
+    3. Mostre [resultado].   
+
+DIVISÃO
+Q1 - Escreva um algoritmo usando linguagem natural e calcule o quociente entre dois números inteiros.
+
+   1. Leia / Pegue os valores desses dois números;
+   2. O resultado será o quociente entre esses dois números;
+
+Q2 - Escreva um algoritmo usando linguagem natural que calcule o quociente entre dois números inteiros e mostre o resultado.
+   
+   1. Leia / Pegue os valores desses dois números;
+   2. O resultado será o quociente entre esses dois números;
+   3. Mostre o resultado desta divisão.
+
+Q3 - Escreva um algoritmo usando linguagem natural que leia dois números inteiros "a" e "b", calcule o quociente entre estes números e mostre o resultado.
+  
+   1. Leia os valores de "a" e "b";
+   2. O resultado será o quociente de "a" dividido por "b";
+   3. Mostre o resultado desta divisão.
+
+ Refinamento:
+    1. Leia [a];           
+    1. Leia [b];
+    2. [resultado] = [a] : [b];
+    3. Mostre [resultado].      
